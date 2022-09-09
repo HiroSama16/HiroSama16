@@ -1,12 +1,4 @@
 # My-Profile
-
-
-<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM/giphy.gif" />
-
-<div align="center">
-
----
-
 - 👋 Hi, I’m @HiroSama16
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
