@@ -17,4 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-trophy.vercel.app/?username=HiroSama16&row=2&column=3&layout=compact&theme=onedark)
 
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiroSama16" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HiroSama16&label=VIEWS&style=flat-square&color=orange" />
+</p>
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
