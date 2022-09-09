@@ -12,4 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=HiroSama16&row=2&column=3&layout=compact&theme=onedark)
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
