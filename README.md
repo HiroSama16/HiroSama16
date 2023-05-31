@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- ## ```Connect with me```
+<p align="center">
+  <a href="https://wa.me/6285836889881"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+<a href="[https://www.facebook.com/profile.php?id=100015526687857](https://www.facebook.com/profile.php?id=100067653206896&mibextid=ZbWKwL)"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 <!---
 HiroSama16/HiroSama16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
