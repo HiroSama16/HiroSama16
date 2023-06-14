@@ -10,7 +10,10 @@
 
 <a href="https://www.facebook.com/profile.php?id=100015526687857][https://www.facebook.com/profile.php?id=100067653206896]"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   
-  <a href="https://t.me/Shiyro"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://t.me/Shiyro"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> 
+    
+<a href="https://github.com/HiroSama16"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=HiroSama16&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=HiroSama16&color=blue&style=flat-square&label=Profile+Dilihat" />    <br>
 <!---
 HiroSama16/HiroSama16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
